@@ -1,5 +1,5 @@
 {
-    "name": "╰•★★ ʄơཞცıɖɖɛŋ ɱųʂıƈ ★★•╯",
+    "name": "╰ϝσɾႦιԃԃҽɳ ✘ ɱυʂιƈ╯",
     "repository": "https://github.com/Zenaku10/AnonXMusic",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
@@ -30,7 +30,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://Sasuke:Sasuke@sasuke.bsab1dl.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://ohmyqueenmedusa:ohmyqueenmedusa@ohmyqueenmedusa.vnxmi0m.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
@@ -54,13 +54,13 @@
         "required": false
       },
       "SUPPORT_CHANNEL": {
-        "description": "Copy a telegram your group.",
-        "value": "https://t.me/FoRBIDDen_FeeLinG5",
+        "description": "Copy a telegram your channel.",
+        "value": "https://t.me/seriousvs_version20",
         "required": true
       },
-      "SUPPORT_GROUP": {
-        "description": "Copy a telegram your Channel.",
-        "value": "https://t.me/FoRBIDDen_FeeLinG10",
+      "SUPPORT_CHAT": {
+        "description": "Copy a telegram your group.",
+        "value": "https://t.me/seriosvs_version10",
         "required": true
       },
       "LOGGER_ID": {

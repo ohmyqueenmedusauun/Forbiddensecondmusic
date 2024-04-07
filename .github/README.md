@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Zenaku10/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/Zenaku10/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Zenaku10/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/Zenaku10/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Zenaku10/AnonXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/ohmyqueenmedusauun/Forbiddensecondmusic/stargazers"><img src="https://img.shields.io/github/stars/ohmyqueenmedusauun/Forbiddensecondmusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/ohmyqueenmedusauun/Forbiddensecondmusic/network/members"> <img src="https://img.shields.io/github/forks/ohmyqueenmedusauun/Forbiddensecondmusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/ohmyqueenmedusauun/Forbiddensecondmusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/Zenaku10/AnonXMusic/commits/Zenaku10"> <img src="https://img.shields.io/github/last-commit/Zenaku10/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/ohmyqueenmedusauun/Forbiddensecondmusic/commits/ohmyqueenmedusauun"> <img src="https://img.shields.io/github/last-commit/ohmyqueenmedusauun/Forbiddensecondmusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
